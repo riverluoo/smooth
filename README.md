@@ -6,7 +6,7 @@
 322.00,324.00,321.00,333.00,340.00,331.00,404.00,453.00,496.00,517.00,513.00,494.00,479.00,467.00
 ~~~~
 
-<div align="center"> <img src="https://riverluooo.oss-cn-beijing.aliyuncs.com/img/20181203192046.png" width="400"/> </div><br>
+<div align="left"> <img src="https://riverluooo.oss-cn-beijing.aliyuncs.com/img/20181203192046.png" width="400"/> </div><br>
 
 ## 一次五点线性平滑
 
@@ -14,12 +14,13 @@
 319.0, 323.5, 328.0, 329.8, 345.8, 372.2, 404.8, 440.2, 476.6, 494.6, 499.8, 494.0, 480.6, 467.2
 ~~~~
 
-<div align="center"> <img src="https://riverluooo.oss-cn-beijing.aliyuncs.com/img/20181203195625.png" width="400"/> </div><br>
+<div align="left"> <img src="https://riverluooo.oss-cn-beijing.aliyuncs.com/img/20181203195625.png" width="400"/> </div><br>
 
 
 ## 二次五点线性平滑
 
 ~~~~
-317.24, 323.23, 329.21999999999997, 339.86, 356.12, 378.56, 407.91999999999996, 437.68, 463.2, 481.03999999999996, 489.12, 487.23999999999995, 479.84000000000003, 472.44000000000005
+317.24, 323.23, 329.2199999
+9999997, 339.86, 356.12, 378.56, 407.91999999999996, 437.68, 463.2, 481.03999999999996, 489.12, 487.23999999999995, 479.84000000000003, 472.44000000000005
 ~~~~
-<div align="center"> <img src="https://riverluooo.oss-cn-beijing.aliyuncs.com/img/20181203195843.png" width="400"/> </div><br>
+<div align="left"> <img src="https://riverluooo.oss-cn-beijing.aliyuncs.com/img/20181203195843.png" width="400"/> </div><br>
