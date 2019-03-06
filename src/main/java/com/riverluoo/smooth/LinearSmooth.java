@@ -31,4 +31,17 @@ public class LinearSmooth {
 
         return out;
     }
+
+    /**
+     * 三点线性平滑
+     *
+     * @param in
+     * @param num
+     * @return
+     */
+    public static List<Double> linearSmooth3(List<Double> in, int num) {
+        ArrayList<Double> out = new ArrayList<Double>();
+
+        return out;
+    }
 }
